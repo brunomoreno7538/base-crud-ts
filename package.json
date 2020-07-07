@@ -23,7 +23,8 @@
     "typescript": "^3.9.6"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "keywords": [],
   "author": "",
